@@ -10,11 +10,11 @@ except ImportError:
 
 app_id = "<FILL IN>"
 app_secret = "<FILL IN>"  # DO NOT SHARE WITH ANYONE!
-group_id = "759985267390294"
+group_id = "1466949623554489"
 
 # input date formatted as YYYY-MM-DD
-since_date = ""
-until_date = ""
+since_date = "2015-01-01"
+until_date = "2018-06-23"
 
 access_token = app_id + "|" + app_secret
 
